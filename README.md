@@ -3,6 +3,7 @@
 A modern, responsive developer portfolio built to showcase projects, technical skills, and scalable web solutions.
 
 ---
+![logo](portfolio3.png)
 
 ## Overview
 
